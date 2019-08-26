@@ -3,6 +3,7 @@
 !.gitignore
 !README.md
 !setup.py
+!densecnn.py
 !example.py
 !result.jpg
 !building.jpg
